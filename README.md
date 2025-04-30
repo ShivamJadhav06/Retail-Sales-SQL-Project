@@ -1,4 +1,3 @@
-# Retail-Sales-SQL-Project
 # 🛒 Retail Sales SQL Project
 
 This project is a **Retail Sales Analysis** using SQL. It includes a dataset and SQL queries that provide insights into sales trends, customer behavior, and product performance.
